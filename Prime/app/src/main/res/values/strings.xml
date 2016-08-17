@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Prime</string>
+    <string name="Correct">Correct</string>
+    <string name="Pass">Pass</string>
+    <string name="Incorrect">Incorrect</string>
+    <string name="Message">New Text</string>
+    <string name="Quit">Quit</string>
+    <string name="Desc">Desc</string>
+
+</resources>
